@@ -1,0 +1,20 @@
+[
+    {
+        "name": "navigation",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1647495409754,
+                "label": "dank",
+                "title": "",
+                "type": "tag",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

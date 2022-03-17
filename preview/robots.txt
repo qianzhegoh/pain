@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:////Users/qianzhegoh/Documents/Publii/sites/test123/preview/sitemap.xml
